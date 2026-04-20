@@ -1,8 +1,6 @@
-<p align="center">
+<h1 align="center">
   <img src="https://chatsell.net/wp-content/uploads/2023/04/Chat-8.png" alt="Chatsell Logo" width="280"/>
-</p>
-
-<h1 align="center">Chatsell</h1>
+</h1>
 
 <p align="center">
   <strong>Agentes de IA conversacionales para automatizar ventas y atención al cliente</strong>
