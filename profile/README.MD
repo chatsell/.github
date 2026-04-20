@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://chatsell.net"><img src="https://img.shields.io/badge/Web-chatsell.net-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web"/></a>
-  <a href="https://www.instagram.com/chatsellapp"><img src="https://img.shields.io/badge/Instagram-chatsell.ia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/chatsellapp"><img src="https://img.shields.io/badge/Instagram-chatsellapp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.youtube.com/@agentesiapro"><img src="https://img.shields.io/badge/YouTube-Chatsell-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://www.tiktok.com/@chatsell.app"><img src="https://img.shields.io/badge/TikTok-chatsell.ia-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+  <a href="https://www.tiktok.com/@chatsell.app"><img src="https://img.shields.io/badge/TikTok-chatsell.app-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
   <a href="https://www.linkedin.com/company/chatsell"><img src="https://img.shields.io/badge/LinkedIn-Chatsell-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:info@chatsell.net"><img src="https://img.shields.io/badge/Email-info@chatsell.net-16213D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
