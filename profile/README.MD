@@ -108,5 +108,5 @@ Operamos bajo dos modelos de negocio:
 </p>
 
 <p align="center">
-   Desarrollado por https://github.com/ivanhadrowa y https://github.com/orgs/chatsell/people/matisidler  🇦🇷 · 2026
+   Desarrollado por https://github.com/matisidler y https://github.com/ivanhadrowa 🇦🇷 · 2026
 </p>
