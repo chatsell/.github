@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://chatsell.net"><img src="https://img.shields.io/badge/Web-chatsell.net-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web"/></a>
-  <a href="https://www.instagram.com/chatsell.ia"><img src="https://img.shields.io/badge/Instagram-chatsell.ia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.youtube.com/@chatsell"><img src="https://img.shields.io/badge/YouTube-Chatsell-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://www.tiktok.com/@chatsell.ia"><img src="https://img.shields.io/badge/TikTok-chatsell.ia-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+  <a href="https://www.instagram.com/chatsellapp"><img src="https://img.shields.io/badge/Instagram-chatsell.ia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/@agentesiapro"><img src="https://img.shields.io/badge/YouTube-Chatsell-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.tiktok.com/@chatsell.app"><img src="https://img.shields.io/badge/TikTok-chatsell.ia-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
   <a href="https://www.linkedin.com/company/chatsell"><img src="https://img.shields.io/badge/LinkedIn-Chatsell-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:info@chatsell.net"><img src="https://img.shields.io/badge/Email-info@chatsell.net-16213D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -39,9 +39,10 @@ Operamos bajo dos modelos de negocio:
 |:-:|:-:|
 | Mensajes procesados | **+10M** |
 | Contactos gestionados | **+2M** |
-| Empresas activas | **+195** |
+| Empresas activas | **+210** |
 | Ventas asistidas por IA (2025) | **+48.000** |
 | Horas ahorradas | **+440.000** |
+| Partners | **Meta & OpeanAI** |
 
 </div>
 
@@ -86,7 +87,14 @@ Operamos bajo dos modelos de negocio:
 
 ---
 
-## Casos de éxito
+## Reseñas de clientes reales
+
+**https://es.trustpilot.com/review/chatsell.net**
+
+
+---
+
+## Algunos Casos de éxito
 
 **Mayorista de Colchones (Salta)** — ROI 23x. Automatización completa del proceso de venta por WhatsApp con catálogo, cobro y seguimiento postventa.
 
@@ -100,5 +108,5 @@ Operamos bajo dos modelos de negocio:
 </p>
 
 <p align="center">
-  Hecho con IA desde Argentina 🇦🇷 · 2025
+   Desarrollado por https://github.com/ivanhadrowa y https://github.com/orgs/chatsell/people/matisidler  🇦🇷 · 2026
 </p>
