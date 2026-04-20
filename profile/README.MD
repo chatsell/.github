@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://chatsell.net/wp-content/uploads/2024/01/logo-chatsell-blanco.png" alt="Chatsell Logo" width="280"/>
+  <img src="https://chatsell.net/wp-content/uploads/2023/04/Chat-8.png" alt="Chatsell Logo" width="280"/>
 </p>
 
 <h1 align="center">Chatsell</h1>
